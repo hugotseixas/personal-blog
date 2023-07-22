@@ -1,0 +1,231 @@
+---
+title: "Políticas públicas para conter mudanças climáticas subestimam as pessoas"
+author: "Hugo Tameirão Seixas"
+date: 2023-06-14
+date-format: "MMM YYYY"
+format: 
+  docx:
+    fontsize: 12pt
+    link-citations: true
+    linkcolor: Sepia
+    citecolor: Sepia
+    urlcolor: Sepia
+abstract: |
+  Diante de uma iminente catástrofe climática de escala global, diversas soluções tem sido porpostas para conter o aquecimento global em níveis aceitáveis. Apesar dos esforços de elaborar soluções, estamos diante de uma incapacidade de parar o aumento da concentração de gases do efeito estufa na atmosfera. Para piorar, muitas das soluções propostas apresentam potencial de deterioração de condições sociais, afetando negativamente grupos de pessoas desprivilegiadas economicamente. Nesse contexto, surge a necessidade de reformluação de políticas, em que populações locais exerçam um papel central na governança de recursos naturais.
+bibliography: eco_hum.bib
+lang: pt-BR
+---
+
+{{< pagebreak >}}
+
+## Introdução
+
+Emissões de gases do efeito estufa (GHG) continuam crescendo e a urgência climática se agrava.
+Segundo estimativas, houve um aquecimento médio da superfície global de 1.15°C, entre os períodos de 1850-1900 até 2023-2022 [@ipcc_2023].
+Além disso, já consideramos improvável a possibilidade de limitar o aquecimento global abaixo de 2°C [@ipcc_2023].
+
+É inequívoco que o aquecimento global é causado pela atividade humana, e sabemos que que a maior parte das emissões de GHG são relacionadas com a queima de combustíveis fósseis [@ipcc_2023].
+No entanto, a redução de emissões causadas pela queima de combustíveis fósseis não é a única solução contemplada para conter a aquecimento global.
+Além da mitigação convencional (reduzir emissões), também acredita-se que podemos diminuir a concentração de GHG na atmosfera por emissões negativas (sequestro de carbono atmosférico) e alterando o balanço energético planetário [@fawzy_2020].
+
+Nesse contexto, técnologias de remoção de carbono atmosférico são consideradas essenciais para limitar o aquecimento global.
+Alguns exemplos são a bioenergia com captura e armazenamento de carbono (BECCS), florestamento, e sequestro de carbono pelo solo [@hoegh_2019; @fawzy_2020].
+Porém, o potencial da aplicação dessas técnologias ainda está em debate [@hoegh_2019].
+
+Grande parte das técnicas de remoção de carbono podem ser consideradas como Soluções Baseadas na Natureza (NBS), que geralmente envolvem a conservação e recuperação de ecosistemas naturais, com o objetivo de mitigação e adaptação às mudanças climáticas [@osaka_2021].
+A princícipio, as NBS são consideradas com entusiasmo, com a expectativa da possibilidade de aplicar soluções efetivas de baixo custo para limitar o aquecimento global [@griscom_2017; @fawzy_2020; @eckardt_2022].
+Porém, a possibilidade de aplicação dessas técnologias em escala (o bastante para ter efeito significativo na mitigação do aquecimento global) é incerta [@hoegh_2019], e apresenta potencial de causar impactos negativos [@osaka_2021; @seddon_2020].
+
+Um exemplo de NBS que tem sido amplamente adotada é a plantação massiva de árvores, com a promessa de remover carbono da atmosfera pelo crescimento da vegetação [@bastin_2019; @lippke_2021].
+Porém, a viabilidade da expansão de área florestal em larga escala é baixa, e pode causar impactos negativos em populações e ecossistemas locais [@fleischman_2020; @bond_2019].
+
+No contexto brasileiro, o reflorestamento em massa foi uma das promessas feitas no Acordo de Paris.
+Porém, uma das promessas mais proeminentes é da agricultura de baixo carbono (Plano ABC), baseada em práticas conservacionistas, plantios integrados e recuperação de pastagens degradadas, podendo ser considerada como uma NBS.
+A agricultura de baixo carbono tem sido amplamente digulgada como uma das soluções para a redução de emissões do Brasil, apesar da falta de estimativas do potencial de sequestro de carbono, e da baixa taxa de adesão pelos agricultures.
+
+Ambas NBS citadas acima são semelhantes na sua forma de aplicação.
+Geralmente, essas técnologias tem sido implementadas por políticas públicas feitas de cima para baixo, de maneira homogênea e centralizada, sem a devida participação de atores locais.
+Justamente essa característica é uma importante causa do baixo sucesso dessas técnologias na mitigação de emissões de GHG.
+
+Nesse artigo, irei discutir sobre soluções baseadas na natureza, mais especificamente o florestamento em massa e a agricultura de baixo carbono, na perspectiva de NBS para mitigação e adaptação às mudanças climáticas.
+A partir dessa discução, irei argumentar sobre possibilidades de uma mudança de perspectiva dessas políticas, passando de uma visão sobre natureza como instrumento, para uma visão em que natureza e sociedade compõe um sistema.
+Portanto, essa nova perspectiva coloca populações no centro das soluções para as mudanças climáticas.
+A partir disso, seria possível propor medidas descentralizadas (soluções baseadas em pessoas) para promover a restauração de ecosistemas naturais, e o desenvolvimento de uma agricultura sustentável, que esteja em coerência com planos de reduzir emissões de carbono?.
+
+{{< pagebreak >}}
+
+## Soluções baseadas na natureza
+
+A definição de soluções baseadas na natureza (NBS) é um tanto incerta, e se sobrepõe com outros termos [@osaka_2021].
+Devido a sua amplitude, o termo NBS contempla medidas extremamente diversas.
+Em geral, consideramos que NBS são medidas que envolvem uma dimensão natural, sem uma presença forte de técnologias industriais, porém, o limite dessa separação tende a ser impreciso.
+
+Na literatura, as NBS apresentam alguns pontos chave para sua concepção como uma possível solução para as mudanças climáticas, eles são a presença de co-benefícios, melhor custo-benefício, maturidade das técnologias, e a importância da governança na aplicação das NBS [@osaka_2021].
+
+Os co-benefícios, que podem ocorrer pela implementação de NBS, são relacionados a questões socioambientais que vão além do objetivo de sequestro de carbono atmosférico.
+Nesse ponto, espera-se que os co-benefícios tenham efeito significativo na adaptação às mudanças climáticas [@osaka_2021].
+
+A questão do custo-benefício é explorada nos estudos sobre NBS no sentido de ser uma solução efetiva e de baixo custo, em relação a outros tipos de técnologias [@griscom_2017; @seddon_2020].
+Apesar dessa reinvidicação, as evidências de que haja vantagens, no sentido de custo-benefício das NBS em relação a outras soluções, são incertas [@osaka_2021; @chausson_2020].
+
+A maturidade das NBS é tida como uma grande vantagem em relação a outras técnologias.
+Mas apesar de um certo domínio das técnicas utilizadas nas NBS, sua aplicação de maneira eficás não é trivial, e seu fracasso é uma possibilidade [@fleischman_2020; @coleman_2021].
+
+A governança é uma questão crítica para as NBS, e geralmente, é atrelada com a descentralização da gestão, a participação de atores locais e coordenação entre diferentes setores da sociedade [@osaka_2021].
+Porém, é comum que, em promessas nacionais de mitigação de emissões, não haja especificações de como será feita a governança de recursos naturais em uma NBS [@fleischman_2021].
+
+Exemplos de NBS variam por sua natureza, essas técnologias podem ser divididas em medidas de proteção, restauração, manejo, criação de ecosistemas, ou então uma combinação entre eles [@chausson_2020].
+A recuperação de paísagens naturais, como florestas e savanas, são exemplos muito comuns de NBS.
+Soluções relacionadas a agriculutra também podem ser consideradas como NBS, como a recuperação de solos degradados através de práticas conservacionistas, a recuperação de pastagens degradadas, e a inclusão de espécies lenhosas na agricultura integrada.
+
+É esperado que a aplicação bem sucedida das NBS, em largas escalas espaciais, tenha o potencial de mitigar o aquecimento global através do sequestro de carbono (emissões negativas).
+Além disso, acredita-se que que essas técnologias trarão efeitos benéficos para fatores sócioambientais, como preservação da biodiversidade e segurança alimentar.
+Infelizmente, ainda não há sinal de que as NBS estejam apresentando um impacto significativo na mitigação do aquecimento global, e há o risco de distorção de seus objetivos devido a fatores político-econômicos.
+
+### O caso do reflorestamento e aflorestamento em massa
+
+A utilidade de florestas para a mitigação do aquecimento global é intuitiva, através da fotossíntese, a vegetação realiza a captura de carbono da atmosfera, podendo armazena-lo em sua estrutura [@lippke_2021].
+Nesse caso, as árvores se destacam pela sua biomassa aérea.
+
+A partir desse raciocínio, a plantação massiva de árvores se tornou uma possível solução para a crise climática.
+Naturalmente, diversas campanhas e projetos foram lançados, como a campanha The Trillion Trees, o projeto REDD+ e o Bonn Challenge [@seymour_2020].
+
+Esses projetos almejam aumentar a cobertura florestal global, especialmente nas regiões próximas ao trópico [@lewis_2019].
+Isso pode ser realizado como reflorestamento (recuperação de florestas em áreas desmatadas), ou pelo aflorestamento (plantação de florestas em áreas originalmente ocupadas por outras formações naturais).
+Esses dois termos podem compor o florestamento, que abranje qualquer tipo de expansão de área florestal (podendo ser feitas de forma passiva ou ativa).
+A natureza do florestamento é diverso em relação a sua composição, florestas podem ser produções industriais de madeira (similares a monoculturas), ou então formações complexas (se assemelhando a ecossistemas considerados naturais).
+É importante destacar a extrema dificuldade de criar paísagens florestais idênticas ao que consideramos como florestas maduras.
+
+Existem debates sobre qual seria a melhor maneira de aumentar a área florestal, com o objetivo de mitigar o aquecimento global (reduzir emissões líquidas através do sequestro de carbono).
+Em geral, existem duas correntes de pensamento:
+
+-   Existem autores que defendem a tese de que florestas plantadas e manejadas, com o objetivo de extração de madeira, trariam maior sequestro de carbono a longo prazo [@lippke_2021].
+    Essa linha de raciocínio argumenta que florestas maduras perdem o potencial de sequestro de carbono, devido a morte mais frequente de árvores mais antigas.
+    Além disso, o crescimento e extração contínua de árvores manteria o potencial de sequestro de carbono e poderia servir para substituir, em parte, a energia gerada por combustíveis fósseis.
+
+-   Outros autores defendem que o florestamento deve ser feito com o objetivo de restaurar florestas naturais [@lewis_2019], ou seja, plantar florestas que tenham características semelhantes a ecosistemas florestais considerados naturais.
+    O agumento dessa hipótese é que restaurando e protegendo florestas naturais, o sequestro de carbono ao longo prazo será maior que plantações madereiras.
+    Isso devido à extração contínua de madeira, que irá ocasionar na liberação de parte significativa do carbono armazenado durante a faze de crescimento das árvores.
+
+Ambas linhas de pensamento, apesar das divergências, se assemelham pelo apagamento de dimensões socio-políticas envolvidas em um processo de florestamento.
+A falta de reconhecimento explícito de populações locais aumenta a probabilidade de ocorrências de impactos sociais negativos [@moioli_2023; @fleischman_2020; @townsend_2020].
+O florestamento também apresenta o risco de impactos ambientais negativos, como o caso da plantação de florestas em locais ocupados predominantemente por gramíneas e arbustos [@bond_2019].
+O risco de fracasso e efeitos adversos é aumentado em situações em que a implementação de florestamento carece de planejamento e participação de atores locais [@rana_2023; @coleman_2021].
+
+A eficácia do florestamento para diminuição das emissões líquidas de GHG são altamente incertas [@smith_2015], principalmente em um futuro mais quente e mais afetado pelas mudanças climáticas [@koch_2022; @anderegg_2020; @seidl_2017; @pugh_2019].
+Em cenários com aumento de secas e da temperatura, a ocorrência de grandes queimadas florestais pode ser mais frequente.
+Portanto, há um risco de que o esforço para sequestro de GHG por florestamento seja perdido com condições ambientais extremas.
+Recentemente, queimadas exepcionais no Canadá, em 2023 [@ramirez_2023], demonstram o risco que passamos por apostar no sequestro de GHG pelo florestamento.
+
+### O caso da agricultura de baixo carbono
+
+#### O plano ABC
+
+A agricultura de baixo carbono foi proposta, como uma das soluções baseadas na natureza, para reduzir as emissões líquidas de GHG [@sa_2017].
+Na agricultura de baixo carbono, o sequestro de carbono da atmosfera se baseia principalmente no aumento do teor de matéria orgânica no solo, e na proteção dessa matéria orgânica acumulada [@zinn_2005].
+Em teoria, isso pode ser atingido através de práticas conservacionistas, como o plantio direto, a recuperação de pastagens degradadas, e a integração de diferentes culturas em um mesmo sistema de produção [@costa_2019; @sa_2017].
+
+Para expandir a adoção de práticas relacionadas a agricultura de baixo carbono, o Brasil lançou um programa de incentivo chamado Plano Agricultura de Baixo Carbono (Plano ABC) em 2010, e posteriormente o Plano ABC+ em 2022.
+
+O Plano ABC se apresentava como uma solução para problemas ambientais que também geraria benefícios sociais e econômicos para produtores rurais [@piao_2021].
+Sua aplicação se deu pela abertura de linhas de crédito para a adoção das práticas conservacionistas na agricultura [@carauta_2017].
+
+#### Incertezas da agricultura de baixo carbono
+
+Porém, o Plano ABC apresentou uma baixa adesão, por parte dos produtores rurais [@newton_2016; @gil_2015], deficiências no monitoramento do programa [@perosa_2023], e grandes incertezas sobre o potencial da agricultura de baixo carbono na diminuição de emissões líquidas de GHG.
+
+Em questão da adesão das práticas apoiadas pelo Plano ABC, existem diversas barreiras que impedem a adoção em larga escala dessas técnologias.
+Foram observadas que questões culturais são críticas na adoção dessas práticas [@gil_2015].
+Além disso, a falta de conhecimento sobre os financiamentos criados pelo Plano ABC, dificuldades burocráticas, e maior rigor ambiental, fazem com que outras linhas de crédito sejam priorizadas.
+Nota-se que ainda há uma escassez de dados sobre adoção de práticas do Plano ABC, especialmente se tratando da cobertura de todas as regiões do país.
+
+O monitoramento dos resultados do Plano ABC também sofre de carências.
+O volume de publicações científicas é relativamente pequeno, carece de dados de longo prazo, e está concentrado nas regiões Sudeste e Centro-Oeste do Brasil.
+Iniciativas de disseminação e monitoramento do Plano ABC, como o Observatório ABC e a Rede ILPF, não apresentam transparência dos dados disponíveis, das metodologias utilizadas, e dos resultados apresentados.
+Esse cenário de carência de informações dificulta tanto a justificativa o Plano ABC como uma solução para reduções de emissões líquidas de GHG, quanto para execução de análises críticas sobre o programa.
+
+Em relação as expectativas e estimativas da contribuição da agricultura de baixo carbono para diminuição das emissões líquidas, existem grandes incertezas não estimadas, especialmente em relação ao carbono orgânico do solo.
+Uma das características já observada do carbono no solo é sua alta variabilidade que pode ocorrer em escalas espaciais pequenas, e a dificuldade de sua medição e representação por amostras de solo.
+
+Além disso, há uma deficiência geral da representação do carbono do solo, em que a maioria das amostragens é feita de forma incompleta, em uma profundidade limitada [@bayer_2010].
+Além disso, transições de ocupação e uso do solo nem sempre tem um efeito esperado no carbono no solo.
+Estudos recentes não encontraram efeito do desmatamento e ocupação de agricultura ou pastagem na quantidade de carbono orgânico no solo [@nunes_2022; @rittl_2017].
+Outros estudos encontraram efeitos de redução de carbono no solo após desmatamento, mesmo que apresentando grandes incertezas [@damian_2021].
+Em relação a agricultura de baixo carbono, estudos sobre o efeito dessas práticas no carbono do solo são limitados, e apresentam resultados heterogeneos, dependendo da profundidade do solo, histórico da área e sistemas de cultivo.
+Essas evidêncas conflitantes apontam para uma alta heterogeneidade no efeito de mudanças do uso e ocupação do solo no carbono, e portanto uma dificuldade na estimativa do mesmo para a questão da agricultura de baixo carbono.
+
+O Sistema de Estimativas de Emissões e Remoções de Gases de Efeito Estufa (SEEG) é uma iniciativa que gerou estimativas sobre o papel da agricultura de baixo carbono nas emissões líquidas do Brasil [@azevedo_2018].
+Apesar das estimativas serem positivas, indicando sequestro de carbono crescente ao longo dos anos, elas foram feitas baseadas em apenas alguns estudos, com recorte espacial e temporal limitados.
+A própria plataforma do SEEG adverte para o uso cauteloso dos dados não presentes no inventário nacional (que incluem as estimativas de sequestro de carbono pela agricultura de baixo carbono), devido a presença de incertezas.
+
+Portanto, observamos um cenário de múltiplas incertezas relacionadas ao Plano ABC, e por consequência a agricultura de baixo carbono como um todo (dentro do contexto das mudanças climáticas e redução de emissões líquidas).
+Essas incertezas colocam em risco a capacidade do Brasil de reduzir suas emissões líquidas de fato.
+
+#### Potenciais riscos do Plano ABC
+
+Além das limitações práticas do Plano ABC em relação ao potencial de mitigação de emissões líquidas, extistem riscos potenciais de sua implementação, tanto na esfera social, quanto ambiental.
+
+Um possível risco ambiental se dá na implementação de sistemas de produção integrados com presença de espécies lenhosas, em regiões que naturalmente não há a presença de árvores.
+A introdução de espécies lenhosas de maneira ampla pode afetar os biomas em que essas produções agrícolas estão inseridas.
+
+Além disso, existem riscos sociais latentes na implementação do Plano ABC. O risco mais intuitivo é da ocorrência de um viés na concessão de linhas de crédito, que pode aprofundar desigualdades das populações rurais.
+Já foi observado que existe desigualdades na alocação de recursos em diferentes regiões do Brasil, tais recursos se concentraram nas regiões Sudeste e Centro-Oeste [@gianetti_2021].
+Também podem haver desiguldade na obtenção de recursos por produtores rurais de diferentes perfis, uma situação que pode privilegiar proprietários maiores, com mais recurso financeiro.
+
+A falta da presença de instrumentos para lidar com questões sociais faz com que o Plano ABC se torne um fator de risco para aprofundamento da desigualdade social no campo.
+
+## Soluções baseadas em pessoas
+
+No contexto apresentado até agora, foi levantada a possibilidade de que as NBS podem apresentar riscos ambientais e sociais, além do possível fracasso no objetivo de mitigação de emissões de GHG.
+Nesse cenário, surge a demanda da transformação dessas tecnologias em soluções baseadas em pessoas [@fleischman_2020].
+
+Soluções baseadas em pessoas seria uma perspectiva em que populações locais sejam objeto central de políticas ambentais, buscando o desenvolvimento de sistemas socioambientais, em que natureza e população possam prosperar em conjunto.
+
+Porém, desenvolver políticas ambientais centralizadas em pessoas também apresenta uma série de desafios [@coleman_2012], especialmente no contexto de um problema ambiental totalmente globalizado como as mudanças climáticas [@piazza_2021].
+Portanto, é fundamental que novas teorias sejam utilizadas para a formulação de diretrizes globais no planejamento de políticas ambientais [@ostrom_2009; @fleischman_2014; @lofthouse_2023].
+A aplicação de soluções para problemas ambientais globais deve ser feita de modo coerente com o contexto local, em que preocupações globais devem respeitar as heterogeneidades locais [@soubry_2020].
+
+Existem evidências de benefícios ambientais e sociais na aplicação de políticas descentralizadas, com participação de populações locais [@coleman_2012; @soubry_2020; @baland_2010].
+Porém, não existem evidências que essas políticas possam ter um efeito significativo na mitigação de emissões líquidas de GHG, através do sequestro de carbono atmosférico, apesar de terem um efeito positivo na adaptação às mudanças climáticas.
+Nesse cenário de incertezas, a aplicação de políticas baseadas em pessoas ainda se mostra mais benéfico em relação a NBS, devido a efeitos positivos locais.
+
+No caso do Brasil, seria possível desenvolver um plano de desenvolvimento agrícola nacional que seja centralizado em populações rurais, e que não seja pautado somente no sequestro de carbono atmosférico?
+Práticas conservacionistas apoiadas pelo Plano ABC poderiam ser estabelecidas através de programas de suporte técnico, transferência de renda e incentivo à cooperativas.
+Opções como essas já são implementadas no Brasil, porém, sem uma diretriz nacional, apoiada por recursos destinados a mitigação e adaptação das mudanças climáticas.
+
+É importante ressaltar que métricas adequadas deveriam ser utilizadas no monitoramento de políticas agrícolas centralizadas na população rural.
+Essas métricas também deveriam representar a situação social e ambiental local.
+O uso de sequestro de carbono como métrica de monitoramento apresentaria um riso de apagamento do contexto local, e de sofrer distorções causadas por interesses financeiros relacionados a mercados de carbono.
+
+De forma contraditória, a agricultura de baixo carbono deveria ser implementada sem expectativas quantitativas na mitigação de emissões líquidas de GHG.
+Esse paradoxo é causado pelo fato de que temos confiança, que essas práticas tem potencial de sequestro de carbono atmosférico, porém, não é possível realizar estimativas robustas sobre esse potencial, e nem estimar a longevidade desses benefícios em um futuro de extremos climáticos.
+A mitigação de emissões de GHG devem ser feitos de maneira pragmática, em setores responsáveis por emissões brutas, como desmatamento, queima de combustíveis fósseis, e exploração de reservas de petróleo (boa parte é queimada no exterior, não sendo contabilizada no inventário nacional).
+
+O papel da agricultura de baixo carbono deveria ser de criar sistemas socioambientais mais sustentáveis, apresentando mais chances de adaptação às mudanças climáticas.
+
+## Considerações finais
+
+Existe separação entre natureza e sociedade humana?
+Essa é uma questão fundamental, e que nunca terá uma resposta.
+Evidências mostram que quase a totalidade do planeta já foi antropizado ao longo da história [@ellis_2021], divergindo da crença de que a presença de humanos irá, inequivocamente, trazer degradação ambiental.
+A natureza, como conhecemos atualmente, é fruto de um processo de interações com humanos.
+
+Porém, grande parte da produção intelectual ainda reproduz uma perspectiva em que natureza e sociedade se separam em uma fronteira clara e definida.
+No contexto das mudanças climáticas, essa perspectiva constrói soluções em que ambas dimensões são distanciadas uma da outra.
+Qual a prioridade, conservação da natureza ou bem estar humano?
+As duas dimensões são excludentes? 
+
+Boa parte de políticas globais e nacionais dão ênfase à dimensão natural.
+Planos de reflorestamento massivo e adoção de novas práticas de produção agrícola.
+Mas onde estão as pessoas que irão implementar essas soluções, e as pessoas que serão afetadas por elas?
+Infelizmente, o apagamento da população nas soluções climáticas as colocam em situação de vulnerabilidade. 
+
+A solução pela solução, o plantio pelo plantio, estes são facilmente sequestrados pela lógica financeira, pois nenhuma solução estará livre da questão econômica.
+E após sua distorção através da necessidade da viabilidade monetária, a solução perde seu objetivo inicial, e possivelmente terá como destino o fracasso. 
+
+Seria possível centralizar as pessoas nas soluções climáticas?
+Ao invés do objetivo de simplesmente plantar árvores, poderíamos ter como objetivo a criação de condições para que populações desenvolvessem sistemas socioambientais mais sustentáveis?
+
+{{< pagebreak >}}
+
+## Referências
